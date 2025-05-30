@@ -1,3 +1,5 @@
+# Cybersecurity
+
 Cyber security is the application of technologies, processes, and controls to protect systems, networks, programs, devices and data from cyber attacks. It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks, and technologies.
 
 Cyber security basics
@@ -56,3 +58,24 @@ Back up critical data at least weekly
 Store backups in multiple locations
 Keep at least one backup offline
 Regularly test your ability to restore from backups
+
+
+
+## Application Output
+
+Step----> 1:
+
+![image alt](https://github.com/BhavishyaA516/Image-Encryption/blob/e37c3a40762ed913bf3f84efb17d1d011b4d52fb/ApplicationOutputs/Step---1.jpg)
+
+Step----> 2:
+
+![image alt](https://github.com/BhavishyaA516/Image-Encryption/blob/b7653664294731731d76da76bd06b4d4c2974ed5/ApplicationOutputs/Step---2.jpg)
+
+Step----> 3:
+
+![image alt](https://github.com/BhavishyaA516/Image-Encryption/blob/f986ea7e3646333dc474e58991e9d90973627c1b/ApplicationOutputs/Step---3.jpg)
+
+Step----> 4:
+
+![image alt](https://github.com/BhavishyaA516/Image-Encryption/blob/312666e5fa5af2d0b0d839d8be573a61fcc8e022/ApplicationOutputs/Step---4.jpg)
+
